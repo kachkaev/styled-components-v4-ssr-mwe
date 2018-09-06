@@ -1,3 +1,4 @@
+import Link from "next/link";
 import styled from "styled-components";
 
 export const StyledDiv1 = styled.div`
@@ -12,5 +13,11 @@ export default () => (
   <div>
     <StyledDiv1>styled div 1</StyledDiv1>
     <StyledDiv2>styled div 2</StyledDiv2>
+    <p>
+    <Link href="/another-page">
+      <a>another page</a>
+    </Link>
+
+    </p>
   </div>
 );
