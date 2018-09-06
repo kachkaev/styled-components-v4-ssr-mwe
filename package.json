@@ -1,0 +1,22 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^7.0.0-canary.12",
+    "react": "^16.4.2",
+    "react-apollo": "^2.1.11",
+    "react-dom": "^16.4.2",
+    "react-i18next": "^7.11.1",
+    "styled-components": "^4.0.0-beta.0"
+  },
+  "devDependencies": {
+    "@types/styled-components": "^3.0.0",
+    "@zeit/next-typescript": "^1.1.1-canary.3",
+    "babel-plugin-styled-components": "^1.6.2",
+    "typescript": "^3.0.3"
+  }
+}
