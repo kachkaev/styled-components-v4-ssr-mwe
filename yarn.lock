@@ -2684,9 +2684,9 @@ neo-async@^2.5.0:
   version "2.5.2"
   resolved "https://registry.yarnpkg.com/neo-async/-/neo-async-2.5.2.tgz#489105ce7bc54e709d736b195f82135048c50fcc"
 
-next@^7.0.0-canary.12:
-  version "7.0.0-canary.12"
-  resolved "https://registry.yarnpkg.com/next/-/next-7.0.0-canary.12.tgz#b245bb9147211e31204fd9e09a34921e9151bf20"
+next@^7.0.0-canary.13:
+  version "7.0.0-canary.13"
+  resolved "https://registry.yarnpkg.com/next/-/next-7.0.0-canary.13.tgz#09abb955638907008393fad88780c380ec5662d7"
   dependencies:
     "@babel/core" "7.0.0"
     "@babel/plugin-proposal-class-properties" "7.0.0"
@@ -3743,7 +3743,7 @@ strip-json-comments@~2.0.1:
   version "2.0.1"
   resolved "https://registry.yarnpkg.com/strip-json-comments/-/strip-json-comments-2.0.1.tgz#3c531942e908c2697c0ec344858c286c7ca0a60a"
 
-styled-components@^4.0.0-beta.0:
+styled-components@^4.0.0-beta.0-2:
   version "4.0.0-beta.0-2"
   resolved "https://registry.yarnpkg.com/styled-components/-/styled-components-4.0.0-beta.0-2.tgz#a9982c4f4593cd55b0c614176c3ab5625c846c9c"
   dependencies:
